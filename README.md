@@ -21,4 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkarsawantt&show_icons=true&locale=en&layout=compact" alt="omkarsawantt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omkarsawantt&show_icons=true&locale=en" alt="omkarsawantt" /></p>
