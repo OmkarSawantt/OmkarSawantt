@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **BSC IT**
 
-- 👨‍💻 All of my projects are available at [https://omkar-sawantt.vercel.app](https://omkar-sawantt.vercel.app)
+- 👨‍💻 All of my projects are available at [https://omkar-sawantt.vercel.app](https://omkar-sawantt.vercel.app/project)
 
 - 💬 Ask me about **MERN Stack**
 
