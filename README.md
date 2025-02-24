@@ -20,7 +20,7 @@ I'm a passionate **Web Developer** with expertise in the **MERN Stack** and know
 
 ### Other Tools & Technologies:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.png" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40"/> 
 
 ## 🔥 Projects
 
